@@ -1,0 +1,216 @@
+{
+    "appApi": {
+        "COUNTRIES ": {
+            "country1": {
+                "name": "Australia",
+                "discription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are gossage of Lorem Ipsum, you nee there",
+                "Languages": "English",
+                "Visa": "Personal Documents Required",
+                "Area": "84.000 km2",
+                "img": "https://vizox-next.vercel.app/images/resource/country-details.jpg",
+                "flag": "https://vizox-next.vercel.app/images/resource/flag-aus.jpg"
+            },
+            "country2": {
+                "name": "United States",
+                "discription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are gossage of Lorem Ipsum, you nee there",
+                "Languages": "English",
+                "Visa": "Personal Documents Required",
+                "Area": "84.000 km2",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1920px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg",
+                "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1920px-Flag_of_the_United_States.svg.png"
+            },
+            "country3": {
+                "name": "India",
+                "discription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are gossage of Lorem Ipsum, you nee there",
+                "Languages": "Hindi",
+                "Visa": "Personal Documents Required",
+                "Area": "84.000 km2",
+                "img": "https://lh3.googleusercontent.com/pNaiwaYaW8abVqU4uPVI-QE1L06T_2amH3GHvsYTkUCS0QT-dt9AHNiAWh41TEMN",
+                "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+            },
+            "country4": {
+                "name": "Brazil",
+                "discription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are gossage of Lorem Ipsum, you nee there",
+                "Languages": "Portuguese ",
+                "Visa": "Personal Documents Required",
+                "Area": "84.000 km2",
+                "img": "https://vizox-next.vercel.app/images/resource/country-3.jpg",
+                "flag": "https://vizox-next.vercel.app/images/resource/flag-3.jpg"
+            },
+            "country5": {
+                "name": "Russia",
+                "discription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are gossage of Lorem Ipsum, you nee there",
+                "Languages": "Russia",
+                "Visa": "Personal Documents Required",
+                "Area": "84.000 km2",
+                "img": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/03/131.jpg",
+                "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/800px-Flag_of_Russia.svg.png"
+            }
+        },
+        "offers": {
+            "offer1": {
+                "name": "Student Visa",
+                "description": "Fusce pretium sem ism the eget mattis. Nam hendrerit elit vel urna fermentum congue.",
+                "img": "https://vizox-next.vercel.app/images/resource/service-1.jpg"
+            },
+            "offer2": {
+                "name": "Take IELTS",
+                "description": "Fusce pretium sem ism the eget mattis. Nam hendrerit elit vel urna fermentum congue.",
+                "img": "https://vizox-next.vercel.app/images/resource/service-2.jpg"
+            },
+            "offer3": {
+                "name": "PTE Coaching",
+                "description": "Fusce pretium sem ism the eget mattis. Nam hendrerit elit vel urna fermentum congue.",
+                "img": "https://vizox-next.vercel.app/images/resource/service-3.jpg"
+            }
+        },
+        "news": {
+            "new1": {
+                "titles": "We’re Leader In Tecnology Market",
+                "img": "https://vizox-next.vercel.app/images/resource/news-details.jpg",
+                "discretion": "Mauris non dignissim purus ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdumtempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.",
+                "comments": {
+                    "comment1": {
+                        "personName": "Kevin Martin",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-4.jpg"
+                    },
+                    "comment2": {
+                        "personName": "Lamiaa Ezzat",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/300499973_1579087872510251_6705383221281861313_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=Pi1G48tZEa4AX9Gjs2Y&_nc_ht=scontent-hbe1-1.xx&oh=00_AfALlZcoiRwq4xeBboqV4J6AzGZ-9KKCPaTgvcGmivlNGQ&oe=64427322"
+                    },
+                    "comment3": {
+                        "personName": "Sarah Albert",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-5.jpg"
+                    }
+                }
+            },
+            "new2": {
+                "titles": "Indian Railways announces tour package from Ayodhya to Vaishno Devi",
+                "img": "https://static.toiimg.com/photo/99338363/vaishno.jpg?width=748&resize=4",
+                "discretion": "Mauris non dignissim purus ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdumtempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.",
+                "comments": {
+                    "comment1": {
+                        "personName": "Kevin Martin",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-4.jpg"
+                    },
+                    "comment2": {
+                        "personName": "Lamiaa Ezzat",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/300499973_1579087872510251_6705383221281861313_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=Pi1G48tZEa4AX9Gjs2Y&_nc_ht=scontent-hbe1-1.xx&oh=00_AfALlZcoiRwq4xeBboqV4J6AzGZ-9KKCPaTgvcGmivlNGQ&oe=64427322"
+                    },
+                    "comment3": {
+                        "personName": "Sarah Albert",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-5.jpg"
+                    }
+                }
+            },
+            "new3": {
+                "titles": "Countries consider curbs on China travellers, EU to discuss",
+                "img": "https://img.etimg.com/thumb/msid-96698947,width-300,height-225,imgsize-16364,,resizemode-75/covid-testing-for-visitors-from-china.jpg",
+                "discretion": "Mauris non dignissim purus ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdumtempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.",
+                "comments": {
+                    "comment1": {
+                        "personName": "Kevin Martin",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-4.jpg"
+                    },
+                    "comment2": {
+                        "personName": "Lamiaa Ezzat",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/300499973_1579087872510251_6705383221281861313_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=Pi1G48tZEa4AX9Gjs2Y&_nc_ht=scontent-hbe1-1.xx&oh=00_AfALlZcoiRwq4xeBboqV4J6AzGZ-9KKCPaTgvcGmivlNGQ&oe=64427322"
+                    },
+                    "comment3": {
+                        "personName": "Sarah Albert",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-5.jpg"
+                    }
+                }
+            },
+            "new4": {
+                "titles": "Himachal Pradesh to develop Kangra as state’s tourism capital",
+                "img": "https://static.toiimg.com/photo/99374023/Ancient-temples-at-Pong-Dam-in-Himachal-Pradesh.jpg?width=748&resize=4",
+                "discretion": "Mauris non dignissim purus ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdumtempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod nec, feugiat at nisi. Quisque vitae odio nec lacus interdum tempus. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae et nunc. Sed vitae leo vitae nisl pellentesque semper.",
+                "comments": {
+                    "comment1": {
+                        "personName": "Kevin Martin",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-4.jpg"
+                    },
+                    "comment2": {
+                        "personName": "Lamiaa Ezzat",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/300499973_1579087872510251_6705383221281861313_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=Pi1G48tZEa4AX9Gjs2Y&_nc_ht=scontent-hbe1-1.xx&oh=00_AfALlZcoiRwq4xeBboqV4J6AzGZ-9KKCPaTgvcGmivlNGQ&oe=64427322"
+                    },
+                    "comment3": {
+                        "personName": "Sarah Albert",
+                        "comment": "Mauris non dignissim purus, ac commodo diam. Donec sit amet lacinia nulla. Aliquam quis purus in justo pulvinar tempor. Aliquam tellus nulla, sollicitudin at euismod.",
+                        "personImg": "https://vizox-next.vercel.app/images/resource/testimonial-5.jpg"
+                    }
+                }
+            }
+        },
+        "team": {
+            "person1": {
+                "id": "1",
+                "name": "Jessica Brown",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-2.jpg",
+                "position": "developer",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person2": {
+                "id": "10",
+                "name": "Kevin Hardson",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-1.jpg",
+                "position": "designer",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person3": {
+                "id": "11",
+                "name": "Michale smith",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-3.jpg",
+                "position": "co founder",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person4": {
+                "id": "100",
+                "name": "David Cooper",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-3.jpg",
+                "position": "co founder",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person5": {
+                "id": "101",
+                "name": "Jessica Brown",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-2.jpg",
+                "position": "developer",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person6": {
+                "id": "110",
+                "name": "Kevin Hardson",
+                "number": "0258741369",
+                "img": "https://vizox-next.vercel.app/images/resource/team-1.jpg",
+                "position": "designer",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            },
+            "person7": {
+                "id": "111",
+                "name": "Aleesha Brown",
+                "number": "0125882244",
+                "img": "https://vizox-next.vercel.app/images/resource/team-details.jpg",
+                "position": "Managing Director & CEO",
+                "about": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries architecto dolorem ipsum quia"
+            }
+        }
+    }
+}
