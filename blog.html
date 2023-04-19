@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>LeMo for travill</title>
+
+
+    <!-- owl library link -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!--style   -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/recponsive.css">
+
+
+
+</head>
+
+<body style="overflow: visible;">
+    <header id="blogHeader">
+
+    </header>
+
+    <!-- header end  -->
+
+
+
+    <main class="page_about">
+        <section id="blogPage" class="startPage">
+        </section>
+        <!-- start news  section -->
+        <section class="blog-details">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-8 col-lg-7">
+                        <div class="blog-details__left">
+                            <div id="postNew">
+                                
+                                
+                            </div>
+                            <div class="blog-details__bottom">
+                                <p class="blog-details__tags"> <span>Tags</span> <a href="blog.html">Technology</a>
+                                    <a href="blog.html">Software</a> </p>
+                                <div class="blog-details__social-list"> <a href="blog.html"><i
+                                            class="fab fa-twitter"></i></a> <a href="blog.html"><i
+                                            class="fab fa-facebook"></i></a> <a href="blog.html"><i
+                                            class="fab fa-pinterest-p"></i></a> <a href="blog.html"><i
+                                            class="fab fa-instagram"></i></a> </div>
+                            </div>
+                            <div class="nav-links">
+                                <div class="prev"><a rel="prev" href="blog.html">True factors of the modern healthy
+                                        lifestyle</a></div>
+                                <div class="next"><a rel="next" href="blog.html">How to lead a healthy &amp;
+                                        well-balanced life</a></div>
+                            </div>
+
+
+                            <div class="comment-one" id="comenments">
+                                </div>
+
+
+
+
+                                <div class="comment-form">
+                                    <h3 class="comment-form__title">Leave a Comment</h3>
+                                    <div id="contact_form" name="contact_form" class="form">
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <div class="mb-3">
+                                                    <input name="form_name" class="form-control" type="text" placeholder="Enter Name" required id="nameOfpers">
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <div class="mb-3">
+                                                    <input name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message" required id="massage"></textarea>
+                                        </div>
+                                        <div class="mb-3">
+                                            <input name="form_botcheck" class="form-control" type="hidden"value="">
+                                            <button type="submit" class="bttn bttnbg" onclick="pushInApi()">
+                                                <span class="btn-title">Submit Comment</span>
+                                            </button>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            
+                        </div>
+                    </div>
+
+
+
+
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="sidebar">
+                            <div class="sidebar__single sidebar__search">
+                                <form class="sidebar__search-form" action="#"><input type="search"
+                                        placeholder="Search here"><button type="submit"><i
+                                            class="lnr-icon-search"></i></button></form>
+                            </div>
+
+
+
+                            <div class="sidebar__single sidebar__post">
+                                <h3 class="sidebar__title">Latest Posts</h3>
+                                <ul class="sidebar__post-list list-unstyled" id="lastPost">
+                                
+                                </ul>
+                            </div>
+                            <div class="sidebar__single sidebar__category">
+                                <h3 class="sidebar__title">Categories</h3>
+                                <ul class="sidebar__category-list list-unstyled">
+                                    <li><a href="/news-details">Artifical Intelligence<span
+                                                class="icon-right-arrow"></span></a> </li>
+                                    <li class="active"><a href="/news-details">Cloud Solution<span
+                                                class="icon-right-arrow"></span></a></li>
+                                    <li><a href="/news-details">Cyber Data<span class="icon-right-arrow"></span></a>
+                                    </li>
+                                    <li><a href="/news-details">SEO Marketing<span class="icon-right-arrow"></span></a>
+                                    </li>
+                                    <li><a href="/news-details">UI/UX Design<span class="icon-right-arrow"></span></a>
+                                    </li>
+                                    <li><a href="/news-details">Web Development<span
+                                                class="icon-right-arrow"></span></a> </li>
+                                </ul>
+                            </div>
+                            <div class="sidebar__single sidebar__tags">
+                                <h3 class="sidebar__title">Tags</h3>
+                                <div class="sidebar__tags-list"> <a href="/news-details#">Consulting</a> <a
+                                        href="/news-details#">Cyber</a> <a href="/news-details#">Development</a> <a
+                                        href="/news-details#">Digital</a> <a href="/news-details#">Software</a> <a
+                                        href="/news-details#">Technology</a> </div>
+                            </div>
+                            <div class="sidebar__single sidebar__comments">
+                                <h3 class="sidebar__title">Recent Comments</h3>
+                                <ul class="sidebar__comments-list list-unstyled">
+                                    <li>
+                                        <div class="sidebar__comments-icon"> <i class="fas fa-comments"></i> </div>
+                                        <div class="sidebar__comments-text-box">
+                                            <p>A wordpress commenter on launch new mobile app</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="sidebar__comments-icon"> <i class="fas fa-comments"></i> </div>
+                                        <div class="sidebar__comments-text-box">
+                                            <p> <span>John Doe</span> on template:</p>
+                                            <h5>comments</h5>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="sidebar__comments-icon"> <i class="fas fa-comments"></i> </div>
+                                        <div class="sidebar__comments-text-box">
+                                            <p>A wordpress commenter on launch new mobile app</p>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="sidebar__comments-icon"> <i class="fas fa-comments"></i> </div>
+                                        <div class="sidebar__comments-text-box">
+                                            <p> <span>John Doe</span> on template:</p>
+                                            <h5>comments</h5>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> 
+        <!-- end news section-->
+
+    </main>
+    <!-- footer start  -->
+    <footer class="main-footer" id="blogFooter">
+    </footer>
+
+    <!-- footer end  -->
+
+
+    <!-- up top  -->
+    <button id="upTop" class="btn "><i class="fa-solid fa-up-long"></i></button>
+
+
+
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/main.js"></script>
+    <script>
+        document.getElementById("blogHeader").innerHTML = navAllPage();
+        document.getElementById("blogPage").innerHTML = pageName('blog detailes');
+        document.getElementById("blogFooter").innerHTML = footer();
+        newsApi() ;
+    </script>
+
+</body>
+
+</html>
+

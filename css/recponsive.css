@@ -68,8 +68,54 @@
             padding: 100px 10px;
         }
     
-        
-
+        /* ///////////////////////////////////// */
+        .blog-details__bottom {
+            gap:30px
+        }
+        .nav-links {
+            flex-direction:column;
+            gap: 20px
+        }
+        .sidebar__post .sidebar__post-list li {
+            padding:16px 0
+        }
+        .sidebar__post .sidebar__title {
+            margin-left:0
+        }
+        .sidebar__category {
+            padding:30px 15px
+        }
+        .sidebar__comments {
+            padding:30px
+        }
+        .sidebar__tags {
+            padding:30px
+        }
+        .comment-one .comment-one__single {
+            flex-direction:column
+        }
+        .comment-one .comment-one__content {
+            margin-top:20px;
+            margin-left: 0
+        }
+        .nav-links .prev {
+            width:100%
+        }
+        .nav-links .next {
+            width:100%
+        }
+        .nav-links>div>a {
+            padding:30px
+        }
+        .sidebar__search-form input[type=search] {
+            padding-left:30px
+        }
+        .sidebar__search-form button[type=submit] {
+            width:42px
+        }
+        .sidebar__post {
+            padding:30px
+        }
      /* ////////////////////////// */
 
     .features-section-two .icon-plane {
@@ -183,7 +229,9 @@
         margin-top: 20px;
     }
 
-
+    .country-details-list li span {
+        width:50%;
+    }
 
 }
 
@@ -205,12 +253,21 @@
 
 
 
+    .sidebar {
+        margin-top:50px
+    }
 
 
+    .country-details .country-content {
+        margin-left:0;
+        margin-top: 30px;
+    }
 
+    .team-details__top-right {
+        margin-top:70px;
+        margin-left: 0;
+    }
 
-
-    
     .about-section .about-block .inner{
         margin-bottom: 40px;
         
